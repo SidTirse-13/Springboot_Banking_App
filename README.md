@@ -1,4 +1,4 @@
-# 🏦 Spring Boot Banking App
+# 🏦 Spring Boot Banking App 
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen)
